@@ -51,7 +51,7 @@ CoDoc is **completely free** but closed-source to protect its unique layout-proc
 CoDoc is developed and maintained independently. It is provided entirely for free without any locked features. If this tool saves you time and enhances your workflow, consider supporting future development via **USDT (Crypto)**:
 
 * **USDT (TRC-20) Address:** `Soon`
-or by qr code (https://co-doc.pages.dev/support)
+or by qr code (https://get.codoc.workers.dev/support)
 
 *Your contributions directly help fund continuous performance optimizations and feature rollouts.*
 
@@ -61,7 +61,7 @@ or by qr code (https://co-doc.pages.dev/support)
 
 Have a feature request, bug report, or business inquiry? Feel free to reach out directly:
 
-* 🌐 **Official Website:** [https://co-doc.pages.dev/]
+* 🌐 **Official Website:** [https://get.codoc.workers.dev/]
 * 📧 **Email Support:** [youa.contact@gmail.com]
 
 ---
