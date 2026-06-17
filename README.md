@@ -42,7 +42,7 @@ It bridges the gap between the simplicity of modern note-taking apps, the power 
 
 CoDoc is **completely free** but closed-source to protect its unique layout-processing architecture. You can download the latest production-ready standalone executable for your operating system directly from the Releases page:
 
-👉 **[Go to Latest Releases](https://github.com/codoc-y/CoDoc/releases)** 
+👉 **[Go to Latest Releases](https://github.com/youa-y/CoDoc/releases)** 
 
 ---
 
