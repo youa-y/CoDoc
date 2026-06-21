@@ -1,0 +1,50 @@
+{
+  "uid": "5f3a7b2c8d9e10fabcded1f234567890",
+  "cid": "63ED32EBE61A86501D",
+  "stid": "FFFF",
+  "hide": false,
+  "data": {
+    "settings": {
+      "e": true,
+      "g": [
+        {
+          "color_seed": {
+            "d": 0
+          },
+          "unit": {
+            "d": "%"
+          }
+        }
+      ]
+    },
+    "main": {
+      "e": true,
+      "g": [
+        {
+          "name": {
+            "d": "A"
+          },
+          "value": {
+            "d": 70
+          }
+        },
+        {
+          "name": {
+            "d": "B"
+          },
+          "value": {
+            "d": 10
+          }
+        },
+        {
+          "name": {
+            "d": "C"
+          },
+          "value": {
+            "d": 20
+          }
+        }
+      ]
+    }
+  }
+}

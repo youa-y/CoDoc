@@ -1,0 +1,24 @@
+{
+  "style": "Default",
+  "sections": [
+    {
+      "name": "main",
+      "label": "Main",
+      "toggleable": null,
+      "type": "Default",
+      "style": "Ghost",
+      "layout": "Default",
+      "groups": [
+        [
+          {
+            "name": "paragraph",
+            "label": "Paragraph",
+            "type": "Textarea",
+            "style": "Default",
+            "options": null
+          }
+        ]
+      ]
+    }
+  ]
+}

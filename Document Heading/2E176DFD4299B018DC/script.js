@@ -1,0 +1,16 @@
+co_start();
+const author=val('author');
+const date=val('date');
+const subject=val('subject');
+print("<header class='doc-header-compact'>");
+  print("  <div class='doc-header-main-row'>");
+  print("    <h1 class='doc-title-compact'>" + subject + "</h1>");
+  print("    <div class='doc-meta-compact'>");
+  print("      <span class='doc-meta-item'>" + author + "</span>");
+  print("      <span class='doc-meta-divider'>•</span>");
+  print("      <span class='doc-meta-item'>" + date + "</span>");
+  print("    </div>");
+  print("  </div>");
+  print("  <hr class='doc-divider-compact' />");
+print("</header>");
+co_end();

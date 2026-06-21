@@ -1,0 +1,14 @@
+[
+  {
+    "sel": "",
+    "dec": "display: flex;\n  flex-direction: column;\n  margin-top: 18pt;\n  gap: 6pt;\n  max-width: 100%;\n  break-inside: avoid;"
+  },
+  {
+    "sel": "img",
+    "dec": "height: auto;\n  display: block;\n  object-fit: contain;\n  margin: 0 auto;"
+  },
+  {
+    "sel": "label",
+    "dec": "font-size: var(--doc-caption-size);\n  color: var(--doc-color-secondary);\n  text-align: var(--doc-caption-align);\n  break-after: avoid;"
+  }
+]

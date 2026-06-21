@@ -1,0 +1,6 @@
+[
+  {
+    "sel": "",
+    "dec": "position: absolute;\n  bottom:0;\n  left:0;\n  padding: var(--doc-margin-top)  var(--doc-margin-left) var(--doc-margin-bottom) var(--doc-margin-right);"
+  }
+]

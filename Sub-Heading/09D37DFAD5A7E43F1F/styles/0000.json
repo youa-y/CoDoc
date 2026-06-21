@@ -1,0 +1,18 @@
+[
+  {
+    "sel": "",
+    "dec": "display: inline;\n  margin-bottom: 0;\n  line-height: var(--doc-body-line-height);"
+  },
+  {
+    "sel": "p",
+    "dec": "margin-top: var(--doc-body-spacing);\n  text-align: var(--doc-body-align);"
+  },
+  {
+    "sel": ".sub",
+    "dec": "font-family: var(--doc-font-sub-heading);\n  font-size: var(--doc-sub-heading-size);\n  font-weight: var(--doc-sub-heading-weight);\n  font-style: var(--doc-sub-heading-style);\n  text-indent: var(--doc-sub-heading-indent);\n  color: var(--doc-primary-color);"
+  },
+  {
+    "sel": ".paragraph",
+    "dec": "font-family: var(--doc-font-body-text);\n  font-size: var(--doc-body-size);\n  color: var(--doc-primary-color);\n  line-height: var(--doc-body-line-height);\n  text-indent: var(--doc-body-indent);\n  margin-top: var(--doc-body-spacing);\n  margin-bottom: var(--doc-body-spacing);"
+  }
+]

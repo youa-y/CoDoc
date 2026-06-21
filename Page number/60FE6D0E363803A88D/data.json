@@ -1,0 +1,18 @@
+{
+  "uid": "5f3a7b2c8d9e10fabcded1f234567890",
+  "cid": "60FE6D0E363803A88D",
+  "stid": "FFFF",
+  "hide": false,
+  "data": {
+    "main": {
+      "e": true,
+      "g": [
+        {
+          "page_number": {
+            "d": 1
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,6 @@
+[
+  {
+    "sel": "",
+    "dec": "position: absolute;\n  top: 50%;\n  left: 50%;\n  transform: translate(-50%, -50%) rotate(-40deg);\n  font-size: var(--doc-watermark-size);\n  font-family:var(--doc-font-watermark);\n  color: var(--doc-color-watermark);\n  opacity: 0.1;\n  white-space: nowrap;\n  pointer-events: none;\n  user-select: none;\n  z-index: 10;"
+  }
+]

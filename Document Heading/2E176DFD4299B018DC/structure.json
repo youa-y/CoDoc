@@ -1,0 +1,38 @@
+{
+  "style": "Default",
+  "sections": [
+    {
+      "name": "main",
+      "label": "Main",
+      "toggleable": null,
+      "type": "Default",
+      "style": "Ghost",
+      "layout": "Default",
+      "groups": [
+        [
+          {
+            "name": "author",
+            "label": "Author",
+            "type": "Text",
+            "style": "Default",
+            "options": null
+          },
+          {
+            "name": "date",
+            "label": "Date",
+            "type": "Date",
+            "style": "Default",
+            "options": []
+          },
+          {
+            "name": "subject",
+            "label": "Subject",
+            "type": "Text",
+            "style": "Default",
+            "options": null
+          }
+        ]
+      ]
+    }
+  ]
+}

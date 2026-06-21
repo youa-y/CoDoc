@@ -1,0 +1,6 @@
+[
+  {
+    "sel": "",
+    "dec": "display: flex;\n  margin-top:20px;\n  gap: 20px;\n  max-width:100%;\n  break-inside: avoid;"
+  }
+]

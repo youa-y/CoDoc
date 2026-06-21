@@ -1,0 +1,14 @@
+[
+  {
+    "sel": "",
+    "dec": "margin-top: 18pt;\n  margin-bottom: 18pt;\n  padding-inline-start: 18pt;\n  border-inline-start: 2pt solid var(--doc-lines-color);"
+  },
+  {
+    "sel": "p",
+    "dec": "font-family: var(--doc-font-quote);\n  font-size: var(--doc-body-size);\n  color: var(--doc-secondary-color);\n  line-height: var(--doc-quote-line-height);\n  text-indent: 0;\n  margin: 0;\n  font-style: italic;"
+  },
+  {
+    "sel": ".quote-citation",
+    "dec": "font-family: var(--doc-font-caption);\n  display: block;\n  text-align: end;\n  margin-top: 6pt;\n  font-size: var(--doc-caption-size);\n  color: var(--doc-primary-color);\n  font-style: normal;\n  font-weight: 700;"
+  }
+]

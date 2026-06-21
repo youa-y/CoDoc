@@ -1,0 +1,15 @@
+{
+  "label": "Columns End",
+  "group": "Layout",
+  "flow": {
+    "conditions": [
+      {
+        "name": "endFlow",
+        "args": []
+      }
+    ]
+  },
+  "uncollapsible": true,
+  "rebuild": false,
+  "version": "2026-06-13"
+}

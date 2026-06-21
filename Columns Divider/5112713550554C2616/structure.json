@@ -1,0 +1,23 @@
+{
+  "style": "Divider",
+  "sections": [
+    {
+      "name": "s",
+      "label": "S",
+      "type": "Default",
+      "style": "Ghost",
+      "layout": "Default",
+      "groups": [
+        [
+          {
+            "name": "ratio",
+            "label": "Ratio",
+            "type": "Number",
+            "style": "Default",
+            "options": null
+          }
+        ]
+      ]
+    }
+  ]
+}

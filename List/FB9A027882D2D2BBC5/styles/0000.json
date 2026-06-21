@@ -1,0 +1,18 @@
+[
+  {
+    "sel": "",
+    "dec": "margin-top: var(--doc-body-spacing);\n  margin-bottom: calc(var(--doc-body-spacing)*2);"
+  },
+  {
+    "sel": "ul",
+    "dec": "padding-left: var(--doc-list-indent);\n  margin: 0;\n  list-style-type: none;\n  counter-reset: item;"
+  },
+  {
+    "sel": "ul li",
+    "dec": "font-family: var(--doc-font-list-item);\n  font-size: var(--doc-body-size);\n  color: var(--doc-primary-color);\n  line-height: var(--doc-body-line-height);\n  padding-left: 18pt;\n  text-indent: -18pt;\n  margin-bottom: 0;\n  position: relative;"
+  },
+  {
+    "sel": "ul li::before",
+    "dec": "content: counter(item) \". \";\n  counter-increment: item;\n  font-weight: 700;\n  color: var(--doc-primary-color);"
+  }
+]

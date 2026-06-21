@@ -1,0 +1,30 @@
+[
+  {
+    "sel": ".doc-header-compact",
+    "dec": "margin-bottom: var(--doc-heading-spacing-before);"
+  },
+  {
+    "sel": ".doc-header-main-row",
+    "dec": "display: flex;\n  flex-direction: column;\n  gap: var(--doc-heading-spacing-after);\n  /* Fallback layout behavior if alignment isn't centered */\n  text-align: left;"
+  },
+  {
+    "sel": ".doc-title-compact",
+    "dec": "font-family: var(--doc-font-paragraph-heading);\n  font-size: var(--doc-heading-size);\n  font-weight: var(--doc-heading-weight);\n  color: var(--doc-primary-color);\n  margin: 0;\n  line-height: 1.2;"
+  },
+  {
+    "sel": ".doc-meta-compact",
+    "dec": "font-family: var(--doc-font-header);\n  font-size: var(--doc-header-size);\n  color: var(--doc-secondary-color);\n  display: flex;\n  align-items: center;\n  gap: 0.5rem;"
+  },
+  {
+    "sel": ".doc-meta-item",
+    "dec": "white-space: nowrap;"
+  },
+  {
+    "sel": ".doc-meta-divider",
+    "dec": "color: var(--doc-secondary-color);\n  opacity: 0.5;"
+  },
+  {
+    "sel": ".doc-divider-compact",
+    "dec": "border: 0;\n  height: var(--doc-table-border);\n  background-color: var(--doc-lines-color);\n  margin-top: var(--doc-heading-spacing-after);\n  margin-bottom: 0;"
+  }
+]

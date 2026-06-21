@@ -1,0 +1,10 @@
+[
+  {
+    "sel": "",
+    "dec": "position: absolute;\n  top: 0;\n  left: 0;\n  width: 100%;\n  height: 100%;\n  padding: calc(var(--doc-margin-top)/2)  calc(var(--doc-margin-left)/2)  calc(var(--doc-margin-bottom)/2)  calc(var(--doc-margin-right)/2);\n  z-index: -10;\n  box-sizing: border-box;"
+  },
+  {
+    "sel": "div",
+    "dec": "width: 100%;\n  height: 100%;\n  border: var(--doc-page-border-thickness) var(--doc-page-border-type) var(--doc-page-border-color);\n  border-radius:var(--doc-page-border-radius);\n  box-sizing: border-box;"
+  }
+]

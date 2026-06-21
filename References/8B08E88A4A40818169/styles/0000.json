@@ -1,0 +1,18 @@
+[
+  {
+    "sel": "",
+    "dec": "margin-top: var(--doc-body-spacing);\n  margin-bottom: calc(var(--doc-body-spacing)*2);"
+  },
+  {
+    "sel": "ul",
+    "dec": "padding-left: 0;\n  margin-top: var(--doc-body-spacing);\n  margin-bottom: calc(var(--doc-body-spacing) * 2);\n  list-style-type: none;\n  counter-reset: item;"
+  },
+  {
+    "sel": "ul li",
+    "dec": "font-family: var(--doc-font-body-text);\n  font-size: var(--doc-body-size);\n  color: var(--doc-primary-color);\n  line-height: var(--doc-body-line-height);\n  margin-bottom: var(--doc-body-spacing);\n  padding-left: var(--doc-list-indent);\n  text-indent: calc(var(--doc-list-indent) * -1);\n  font-style: normal;\n  position: relative;\n  text-align: var(--doc-body-align);"
+  },
+  {
+    "sel": "ul li::before",
+    "dec": "font-family: var(--doc-font-list-item);\n  counter-increment: item;\n  content: \"[\" counter(item) \"] \";\n  font-weight: 700;\n  color: var(--doc-primary-color);\n  margin-right: 6pt;\n  display: inline-block;\n  text-indent: 0;"
+  }
+]

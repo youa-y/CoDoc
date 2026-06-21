@@ -1,0 +1,10 @@
+co_start();
+  print(`<p>`);
+  print(`<span class="sub">`);
+  print(val('sub_heading'));
+  print(`</span>`);
+  print(`<span class="paragraph">`);
+  print(val('paragraph'));
+  print(`</span>`);
+  print(`</p>`);
+co_end();

@@ -1,0 +1,14 @@
+{
+  "label": "Columns Start",
+  "group": "Layout",
+  "flow": {
+    "conditions": [
+      {
+        "name": "startFlow",
+        "args": []
+      }
+    ]
+  },
+  "uncollapsible": true,
+  "rebuild": false
+}

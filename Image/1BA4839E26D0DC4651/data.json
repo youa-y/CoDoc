@@ -1,0 +1,24 @@
+{
+  "uid": "5f3a7b2c8d9e10fabcded1f234567890",
+  "cid": "1BA4839E26D0DC4651",
+  "stid": "FFFF",
+  "hide": false,
+  "data": {
+    "main": {
+      "e": true,
+      "g": [
+        {
+          "scale": {
+            "d": 100
+          },
+          "img": {
+            "d": ""
+          },
+          "name": {
+            "d": ""
+          }
+        }
+      ]
+    }
+  }
+}

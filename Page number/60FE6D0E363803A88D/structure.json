@@ -1,0 +1,24 @@
+{
+  "style": "Default",
+  "sections": [
+    {
+      "name": "main",
+      "label": "Main",
+      "toggleable": null,
+      "type": "Default",
+      "style": "Ghost",
+      "layout": "Default",
+      "groups": [
+        [
+          {
+            "name": "page_number",
+            "label": "Page Number",
+            "type": "Number",
+            "style": "Default",
+            "options": null
+          }
+        ]
+      ]
+    }
+  ]
+}

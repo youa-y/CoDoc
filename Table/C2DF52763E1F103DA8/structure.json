@@ -1,0 +1,38 @@
+{
+  "style": "Default",
+  "sections": [
+    {
+      "name": "main",
+      "label": "Main",
+      "toggleable": false,
+      "type": "Default",
+      "style": "Ghost",
+      "layout": "Columns",
+      "groups": [
+        [
+          {
+            "name": "table",
+            "label": "Table",
+            "type": "Table",
+            "style": "Default",
+            "options": null
+          },
+          {
+            "name": "name",
+            "label": "Name",
+            "type": "Text",
+            "style": "Default",
+            "options": null
+          },
+          {
+            "name": "headless",
+            "label": "Headless",
+            "type": "Checkbox",
+            "style": "Default",
+            "options": []
+          }
+        ]
+      ]
+    }
+  ]
+}

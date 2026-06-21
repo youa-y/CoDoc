@@ -1,0 +1,6 @@
+[
+  {
+    "sel": "",
+    "dec": "font-family: var(--doc-font-paragraph-heading);\n  font-size: var(--doc-heading-size);\n  font-weight: var(--doc-heading-weight);\n  color: var(--doc-primary-color);\n  line-height: 1.3;\n  margin-top: var(--doc-heading-spacing-before);\n  margin-bottom: var(--doc-heading-spacing-after);"
+  }
+]

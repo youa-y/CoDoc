@@ -1,0 +1,23 @@
+{
+  "style": "Default",
+  "sections": [
+    {
+      "name": "main",
+      "label": "Main",
+      "type": "Default",
+      "style": "Ghost",
+      "layout": "Default",
+      "groups": [
+        [
+          {
+            "name": "paragraph_heading",
+            "label": "Paragraph Heading",
+            "type": "Text",
+            "style": "Default",
+            "options": null
+          }
+        ]
+      ]
+    }
+  ]
+}

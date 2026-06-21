@@ -1,0 +1,6 @@
+[
+  {
+    "sel": "",
+    "dec": "font-size: var(--doc-equations-size);\n  margin-top: calc(var(--doc-body-spacing)*2);\n  margin-bottom: calc(var(--doc-body-spacing)*2);\n  text-align: center;"
+  }
+]

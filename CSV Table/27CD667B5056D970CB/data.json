@@ -1,0 +1,40 @@
+{
+  "uid": "5f3a7b2c8d9e10fabcded1f234567890",
+  "cid": "27CD667B5056D970CB",
+  "stid": "FFFF",
+  "hide": false,
+  "data": {
+    "options": {
+      "e": true,
+      "g": [
+        {
+          "index": {
+            "d": 1
+          },
+          "end": {
+            "d": 10
+          },
+          "start": {
+            "d": 1
+          }
+        }
+      ]
+    },
+    "main": {
+      "e": true,
+      "g": [
+        {
+          "file": {
+            "d": ""
+          },
+          "header": {
+            "d": true
+          },
+          "numeric": {
+            "d": false
+          }
+        }
+      ]
+    }
+  }
+}

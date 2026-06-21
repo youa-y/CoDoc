@@ -1,0 +1,30 @@
+[
+  {
+    "sel": ".chart-wrapper",
+    "dec": "width: 100%;\n  max-width: 400px;\n  margin: 0 auto;\n  text-align: center;\n  font-family: var(--doc-font-body-text);\n  color: var(--doc-color-primary);"
+  },
+  {
+    "sel": ".chart-svg-box",
+    "dec": "margin-bottom: 12pt;"
+  },
+  {
+    "sel": ".chart-svg-box svg",
+    "dec": "display: block;\n  margin: 0 auto;\n  /* Optional: Add a subtle drop shadow */\n    filter: drop-shadow(0 2px 4px rgba(0,0,0,0.05));"
+  },
+  {
+    "sel": ".chart-legend",
+    "dec": "display: flex;\n  flex-wrap: wrap;\n  justify-content: center;\n  gap: 6pt 16pt;\n  padding: 0 10pt;"
+  },
+  {
+    "sel": ".chart-legend-item",
+    "dec": "display: flex;\n  align-items: center;\n  gap: 6pt;"
+  },
+  {
+    "sel": ".chart-dot",
+    "dec": "display: inline-block;\n  width: 8pt;\n  height: 8pt;\n  border-radius: 2pt;\n  flex-shrink: 0;"
+  },
+  {
+    "sel": ".chart-caption",
+    "dec": "font-family: var(--doc-font-caption);\n  font-size: var(--doc-caption-size);\n  color: var(--doc-color-secondary);\n  line-height: 1.4;\n  white-space: nowrap;"
+  }
+]

@@ -1,0 +1,57 @@
+{
+  "style": "Default",
+  "sections": [
+    {
+      "name": "main",
+      "label": "Main",
+      "toggleable": false,
+      "type": "List",
+      "style": "Ghost",
+      "layout": "Columns",
+      "groups": [
+        [
+          {
+            "name": "name",
+            "label": "Name",
+            "type": "Text",
+            "style": "Default",
+            "options": null
+          },
+          {
+            "name": "value",
+            "label": "Value",
+            "type": "Number",
+            "style": "Default",
+            "options": []
+          }
+        ]
+      ]
+    },
+    {
+      "name": "settings",
+      "label": "Settings",
+      "toggleable": false,
+      "type": "Default",
+      "style": "Ghost",
+      "layout": "Columns",
+      "groups": [
+        [
+          {
+            "name": "color_seed",
+            "label": "Color Seed",
+            "type": "Number",
+            "style": "Default",
+            "options": []
+          },
+          {
+            "name": "unit",
+            "label": "Unit",
+            "type": "Text",
+            "style": "Default",
+            "options": null
+          }
+        ]
+      ]
+    }
+  ]
+}
