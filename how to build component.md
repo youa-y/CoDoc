@@ -6,12 +6,12 @@ Each item contains a set of well-defined files, all of which are essential for i
 I will focus on the `script.js` file, as it is the most crucial. It follows a specific coding convention that should be adhered to for seamless integration with the internal core.
 
 ### Global Functions
-- **`print`**: Displays text or HTML inside the component.
-- **`co_import`**: Adds external libraries to the project.
+- **`print`**: Displays text or HTML inside the page.
+- **`co_import`**: Adds external libraries to the component.
 - **`co_start`**: Opens the main HTML container for the component.
 - **`co_end`**: Closes the main HTML container.
 - **`len`**: Counts the total number of items in a specific data section.
-- **`val`**: Gets specific data values from the system.
+- **`val`**: Gets specific data values from the components fields.
 - **`is_enable`**: Checks if a specific data section is turned on or active.
 - **`src`**: Creates full links for files, images, or media.
 
