@@ -72,6 +72,22 @@ CoDoc is **completely free** but closed-source to protect its unique layout-proc
 
 ---
 
+## Notes
 
+The software is partially open-source. The element creation part is fully open-source, and you can check it out. However, the core of the software is closed-source to protect my work and to prevent modified versions that could harm regular users. I hope you understand these two reasons.
+
+I know that because the core is closed-source, I need to work hard to prove that the software is safe.
+So, I have done the following. First, the software does not need an internet connection at all. I have provided this video showing that the software does not connect to the network while running: [https://youtu.be/o6qIQAeXluM]
+
+**You can also block it using your firewall.**
+
+Second, you can copy the software's hash from GitHub or the website before downloading, and check it on VirusTotal. It passed all the scans successfully, meaning it is free of any suspicious activity. You can check the results yourself.
+Here is a video explaining this process:
+
+
+You might ask about the goal or how I make money. My plan is to make money through donations from people who like the software and want it to keep developing and updating.
+
+
+Please do not hesitate to ask me any questions. I am usually always available to answer quickly.
 
 *Copyright © 2026 CoDoc. All Rights Reserved.*
